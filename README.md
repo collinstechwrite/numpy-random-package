@@ -18,7 +18,7 @@ I give a brief background introduction to the overall purpose of the package
 
 ### 2. Explain the use of the “Simple random data” and “Permutations” functions.
 
-For simple random data I've taken examples from W3 schools for, showing how NumPy can ranomise data for Floats and Integers
+For simple random data I've taken examples from W3 schools for, showing how NumPy can randomise data for Floats and Integers
 
 randint()
 rand()
